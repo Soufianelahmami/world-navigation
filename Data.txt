@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQbCg.webp",
+            "title": "world navigation 1",
+            "text_Content_": "Navigation, the art and science of determining one's position and course to reach a desired destination, has been an essential aspect of human existence since time immemorial. From the earliest days of civilization, humans have relied on various methods to traverse the vast expanses of land and sea, and today"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQtZF.webp",
+            "title": "world navigation 2",
+            "text_Content_": "we continue to evolve our navigational techniques with cutting-edge technology. In this article, we will explore the fascinating history of world navigation, from ancient celestial navigation to the modern GPS system that has revolutionized our ability to explore and understand the world"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQZj1.webp",
+            "title": "world navigation 3",
+            "text_Content_": "Celestial Navigation: Long before the advent of GPS and electronic navigation systems, ancient mariners relied on the stars, the moon, and the sun to navigate their way across the seas. Celestial navigation, often associated with the Polynesians, Greeks, and Phoenicians, involved observing the positions of celestial bodies to determine latitude and longitude"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQQTP.webp",
+            "title": "world navigation 4",
+            "text_Content_": "Wayfinding: Indigenous cultures around the world developed remarkable wayfinding techniques. The Polynesians, for example, used their knowledge of the stars, ocean currents, and the behavior of marine life to navigate the vast Pacific Ocean, discovering remote islands in the process"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQ63x.webp",
+            "title": "world navigation 5",
+            "text_Content_": "The Compass: The development of the magnetic compass in China during the Han Dynasty (between the 2nd century BC and 1st century AD) revolutionized navigation. The compass allowed sailors to determine their direction regardless of the weather or time of day, opening up new horizons for exploration"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQPYQ.webp",
+            "title": "world navigation 6",
+            "text_Content_": "Mapping the World: Explorers like Christopher Columbus, Ferdinand Magellan, and Vasco da Gama embarked on epic voyages of discovery in the 15th and 16th centuries. These explorations not only expanded our knowledge of the world but also highlighted the importance of accurate maps and navigation tools"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQivV.webp",
+            "title": "world navigation 7",
+            "text_Content_": "hronometer: In the 18th century, the invention of the marine chronometer by John Harrison significantly improved the accuracy of longitude calculations, making long-distance sea travel safer and more reliable"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJkQsyB.webp",
+            "title": "world navigation 8",
+            "text_Content_": " Radio Navigation: The 20th century saw the development of radio-based navigation systems like LORAN and VOR, which provided aircraft and ships with more precise positioning information"
         }
     ]
 }
