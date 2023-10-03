@@ -1,9 +1,9 @@
 {
     "ADS": {
         "banner_type_1": "yandex",
-        "inter_type_1": "yandex",
+        "inter_type_1": "ironsource",
         "native_type_1": "yandex",
-        "reward_type_1": "yandex",
+        "reward_type_1": "ironsource",
         "native_or_mrec_1": "native",
         "ironsource_id": "ironsource_id_value",
         "unity_id": "unity_id_value",
@@ -24,7 +24,7 @@
         {
             "image_link": "https://iili.io/JJkQtZF.webp",
             "title": "world navigation 2",
-            "text_Content_": "we continue to evolve our navigational techniques with cutting-edge technology. In this article, we will explore the fascinating history of world navigation, from ancient celestial navigation to the modern GPS system that has revolutionized our ability to explore and understand the world"
+            "text_Content_": "Navigation, the art and science of determining one's position and course to reach a desired destination"
         },
         {
             "image_link": "https://iili.io/JJkQZj1.webp",
